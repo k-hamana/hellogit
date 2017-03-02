@@ -8,7 +8,7 @@
 <title>シンプルブログ</title>
 </head>
 <body>
-<h2>んらららんんシンプルブログ</h2>
+<h2>んららもらんんシンプルブログ</h2>
 <a href="read">リロード</a>
 <form action  = "post" method="POST">
 <br>タイトル<input type="text" name="title" size="40">
